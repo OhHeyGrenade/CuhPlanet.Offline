@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Tetretallk is offline"
+title: "Tetretalk is offline"
 excerpt: "Tetretalk | Offline"
 ---
 # Tetretalk Is Offline!
