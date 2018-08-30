@@ -6,7 +6,7 @@ locale: en
 author: 
 
 countdown:
-  theme: black
+  theme: red
   year: 2018
   month: 9
   day: 6
