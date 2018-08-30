@@ -1,13 +1,10 @@
-# Site wide configuration
+
 
 title: "Tetretalk is Down for maintanence and upgrades, please check back again later!"
 description: "Tetretalk Is offline!"
-#if you modify locale please have a look at _data/messages.yml too
 locale: en
-#for meta name="author" :
 author: 
 
-#Target date in UTC / GMT
 countdown:
   theme: red
   year: 2018
@@ -16,20 +13,19 @@ countdown:
   hour: 16
   minute: 0
 
-# Site owner
+
 owner:
   name:
   email:
   twitter:
   google-plus:
   instagramm:
-  #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
   aboutlink:
     url:
     caption:
 
 
-# Jekyll configuration
+# Important Stuff - don't mess with please
 sass:
   sass_dir: _sass
   style: compressed
